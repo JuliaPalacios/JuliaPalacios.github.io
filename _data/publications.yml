@@ -1,0 +1,164 @@
+# use double quotes (") for outer quotes and single quotes (') for inner.
+# For links: put the pdf in /files/publications, and put just the file title in the 'link' field.
+# For pics: put the thumbnail in /files/publications, and put just the file title in the 'pic' field.
+
+# New:
+# fields are: title, authors, pubname, pubinfo year, link, pic, and other
+# other can contain other links/buttons whatever.
+# You can add "pubprefix" to do something like page numbers and/or "In:"
+# Use <ins> tag to surround SR name in order to underline it. 
+
+- title: "Bayesian nonparametric inference of population size changes from sequential genealogies"
+  authors: "Palacios, JA, Wakeley, J, and <ins>Ramachandran, S</ins>"
+  pubname: "Genetics"
+  pubinfo: "Vol. 201:281-304"
+  year: "2015"
+  link: "Palacios, Wakeley, Ramachandran - 2015 - Genetics.pdf"
+
+- title: "A comparison of worldwide phonemic and genetic variation in human populations"
+  authors: "Creanza, N, Ruhlen, M, Pemberton, TJ, Rosenberg, NA, Feldman, MW, and <ins>Ramachandran, S</ins>"
+  pubname: "Proceedings of the National Academy of Sciences USA"
+  pubinfo: "Vol. 112:1265-1272"
+  year: "2015"
+  link: "Creanza et al. - 2014 - Proceedings of the National Academy of Sciences.pdf"
+
+- title: "Global diversity and risk of human infectious disease outbreaks"
+  authors: "Smith KF, Goldberg M, Rosenthal S, Carlson L, Chen J, Chen C, <ins>Ramachandran S</ins>"
+  pubname: "J Roy Soc Interface"
+  pubinfo: "Vol. 11:20140950"
+  year: "2014"
+  link: "J. R. Soc. Interface-2014-Smith-.pdf"
+
+- title: "Genetic variation and RNA binding proteins: tools and techniques to detect functional polymorphisms"
+  authors: "Soemedi R, Vega H, Belmont JM, <ins>Ramachandran S</ins>, Fairbrother WG"
+  year: "2014"
+  pubprefix: "In:"
+  pubname: "Systems and molecular perspectives to RNA binding protein biology"
+  pubinfo: "ed. G Yeo. Springer"
+
+- title: "Network analysis of GWAS data"
+  authors: "Leiserson MDM, Eldridge J, <ins>Ramachandran S</ins>, Raphael BJ"
+  year: "2013"
+  pubname: "Current Opinion in Genetics and Development"
+  pubinfo: "Vol. 23:602-610"
+  link: "Leiserson et al. - 2013 - Current opinion in genetics & development.pdf"
+  pic: "leiserson.png"
+
+- title: "The phosphorus content of common rocks - a potential driver of ecosystem P status"
+  authors: "Porder S, <ins>Ramachandran S</ins>"
+  year: "2012"
+  pubname: "Plant and Soil"
+  pubinfo: "Vol. 367:41-55"
+  link: "Porder, Ramachandran - 2012 - Plant and Soil.pdf"
+
+
+- title: "Gene genealogies within a fixed pedigree, and the robustness of Kingman’s coalescent"
+  authors: "Wakeley J, King L, Low BS, <ins>Ramachandran S</ins>"
+  year: "2012"
+  pubname: "Genetics"
+  pubinfo: "Vol. 190:1433-1445"
+  link: "Wakeley2012Genetics.pdf"
+
+- title: "A test of the influence of continental axes of orientation on patterns of human gene flow"
+  authors: "<ins>Ramachandran S</ins>, Rosenberg NA"
+  year: "2011"
+  pubname: "American Journal of Physical Anthropology"
+  pubinfo: "Vol. 146:515-529"
+  link: "Ramachandran, Rosenberg - 2011 - American Journal of Physical Anthropology.pdf"
+  pic: "AJPA_Cover.png"
+
+- title: "Perspectives on human population structure at the cusp of the sequencing era"
+  authors: "Novembre J, <ins>Ramachandran S</ins>"
+  year: "2011"
+  pubname: "Annual Review of Genomics and Human Genetics"
+  pubinfo: "Vol. 12:245-274"
+  link: "novembre2011ARGHG.pdf"
+
+- title: "Hunter-gatherer genomic diversity suggests a southern African origin for modern humans"
+  authors: "Henn BM, Gignoux CR, Jobin M, Granka JM, Macpherson JM, Rodr&iacute;guez-Botigu&eacute;e L, <ins>Ramachandran S</ins>, et al."
+  year: "2011"
+  pubname: "Proc Natl Acad Sci USA"
+  pubinfo: "Vol. 108:5154-5162"
+  link: "Henn et al. - 2011 - Proceedings of the National Academy of Sciences of the United States of America.pdf"
+  pic: "henn.cover.png"
+
+- title: "Genetics and genomics of human population structure"
+  authors: "<ins>Ramachandran S</ins>, Tang H, Gutenkunst R, Bustamante CD"
+  year: "2010"
+  pubprefix: "pp. 589-616. In:"
+  pubname: "Vogel and Motulsky's Human Genetics: Problems and Approaches"
+  pubinfo: "4th ed., eds. M Speicher, SE Antonarakis, AG Motulsky. Springer"
+
+
+
+- title: "Characterization of X-linked SNP genotypic variation in globally distributed human populations"
+  authors: "Casto AM, Li JZ, Absher D, Myers R, <ins>Ramachandran S</ins>, Feldman MW"
+  year: "2010"
+  pubname: "Genome Biology"
+  pubinfo: "Vol. 11:R10"
+  link: "Casto et al. - 2010 - Genome Biology.pdf"
+
+
+- title: "Theory of migration: Implications for linguistic evolution"
+  authors: "<ins>Ramachandran S</ins>, Feldman MW"
+  year: "2009"
+  pubprefix: "In:"
+  pubname: "Ancient Human Migrations: A Multidisciplinary Approach"
+  pubinfo: "eds. PN Peregrine, I Peiros, MW Feldman. University of Utah Press"
+
+
+- title: "Evaluating signatures of sex-specific processes in the human genome"
+  authors: "Bustamante CD, <ins>Ramachandran S</ins>"
+  year: "2009"
+  pubname: "Nature Genetics"
+  pubinfo: "(News and Views) Vol. 41:8-10"
+  link: "Bustamante, Ramachandran - 2009 - Nature Genetics.pdf"
+
+- title: "Population differentiation and migration: coalescence times in a two-sex island model for autosomal and X-linked loci"
+  authors: "<ins>Ramachandran S</ins>, Rosenberg NA, Feldman MW, Wakeley J"
+  year: "2008"
+  pubname: "Theoretical Population Biology"
+  pubinfo: "Vol. 74:291-301"
+  link: "Ramachandran et al. - 2008 - Theoretical Population Biology.pdf"
+
+- title: "Worldwide human relationships inferred from genome-wide patterns of variation"
+  authors: "Li JZ, Absher DM, Tang H, Southwick AM, Casto AM, <ins>Ramachandran S</ins>, Cann HM, Barsh GS, Feldman M, Cavalli-Sforza LL, Myers RM"
+  year: "2008"
+  pubname: "Science"
+  pubinfo: "Vol. 319:1100-1104"
+  link: "Li et al. - 2008 - Science (New York, N.Y.).pdf"
+
+- title: "Genetic variation and population structure in Native Americans"
+  authors: "Wang S, Lewis Jr. CM, Jakobsson M, <ins>Ramachandran S</ins>, Ray N, et al."
+  year: "2007"
+  pubname: "PLoS Genetics"
+  pubinfo: "Vol. 3:e185"
+  link: "Wang et al. - 2007 - PLoS genetics.pdf"
+
+- title: "Clines, clusters, and the effect of study design on the inference of human population structure"
+  authors: "Rosenberg NA, Mahajan S, <ins>Ramachandran S</ins>, Zhao C, Pritchard JK, Feldman MW"
+  year: "2005"
+  pubname: "PLoS Genetics"
+  pubinfo: "Vol. 1:e70"
+  link: "Rosenberg et al. - 2005 - PLoS Genetics.pdf"
+
+- title: "Support from the relationship of genetic and geographic distance in human populations for a serial founder effect originating in Africa"
+  authors: "<ins>Ramachandran S</ins>, Deshpande O, Roseman CC, Rosenberg NA, Feldman MW, Cavalli-Sforza LL"
+  year: "2005"
+  pubname: "Proc Natl Acad Sci USA"
+  pubinfo: "Vol. 102:15942-15947"
+  link: "Ramachandran et al. - 2005 - Proceedings of the National Academy of Sciences of the United States of America.pdf"
+
+- title: "Demographic estimates from Y-chromosome microsatellite polymorphisms: analysis of a worldwide sample"
+  authors: "Macpherson JM, <ins>Ramachandran S</ins>, Diamond L, Feldman MW"
+  year: "2004"
+  pubname: "Human Genomics"
+  pubinfo: "Vol. 1:345-354"
+  link: "Macpherson et al. - 2004 - Human Genomics.pdf"
+
+- title: "Robustness of the inference of human population structure: a comparison of X-chromosomal and autosomal microsatellites"
+  authors: "<ins>Ramachandran S</ins>, Rosenberg NA, Zhivotovsky L, Feldman MW"
+  year: "2004"
+  pubname: "Human Genomics"
+  pubinfo: "Vol. 1:87-97"
+  link: "Ramachandran et al. - 2004 - Human Genomics.pdf"
