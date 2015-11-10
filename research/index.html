@@ -9,3 +9,39 @@ title: Julia A. Palacios
 
     		</div><!-- /.blurb -->
 	
+{% assign articles = site.data.publications | sort: 'year' %}
+{% for article in articles reversed %}
+
+{% if forloop.first == true %}
+  {% assign prevyear = "0" %}
+{% endif %}
+
+{% assign curryear = article.year %}
+
+{% if curryear != prevyear %}
+  {% if forloop.first == false %}</ul>{% endif %}
+  
+  <div class="pub-year-header">{{ curryear }}</div>
+  <ul class="pub-list">
+  {% assign prevyear = curryear %}
+{% endif %}
+
+<li>
+  
+  <a class="pub-img {% if article.link %}hoverable{% endif %}" {% if article.link %}href="{{ site.baseurl }}/research/publications/{{ article.link }}" target="_blank"{% endif %}>
+    <img src="{% if article.pic %}{{ site.baseurl }}/research/publications/{{ article.pic }}{% else %}placeholder.svg{% endif %}" alt="" />
+  </a>
+
+  <p><span class="pub-title">{{ article.title }}</span></p>
+  <p><span class="pub-authors">{{ article.authors }}</span></p>
+  <p>
+    <span class="pub-pubprefix">{{ article.pubprefix}}</span>
+    <span class="pub-journal">{{ article.pubname }}</span>
+    <span class="pub-year">{{ article.year }}</span>
+    <span class="pub-pubinfo">{{ article.pubinfo }}</span>
+  </p>
+
+</li>
+
+{% endfor %}
+</ul>
