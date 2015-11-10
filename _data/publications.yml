@@ -13,7 +13,7 @@
   pubname: "Genetics"
   pubinfo: "Vol. 201:281-304"
   year: "2015"
-  link: "Palacios, Wakeley, Ramachandran - 2015 - Genetics.pdf"
+  link: "Palacios et al. -2015 -Genetics.pdf"
   pic: "1.cover_genetics.gif"
 
 - title: "An efficient Bayesian inference framework for coalescent-based nonparametric phylodynamics"
@@ -21,6 +21,15 @@
   pubname: "Bioinformatics"
   pubinfo: "Vol. 112:1265-1272"
   year: "2015"
-  link: "Lan et al. - 2015 - Bioinformatics.pdf"
+  link: "Lan et al. -2015 - Bioinformatics.pdf"
   pic: "12.cover_bioinformatics.gif"
+  
+- title: "An efficient Bayesian inference framework for coalescent-based nonparametric phylodynamics"
+  authors: "Leaché A, <ins>Palacios JA</ins>, Minin VN, Bryson, Jr.R"
+  pubname: "Biological Journal of the Linnean Society"
+  pubinfo: "BJLS-2868.R1"
+  year: "2013"
+  link: "Leach-_et_al-2013-Biological_Journal_of_the_Linnean_Society.pdf"
+  pic: "cover_Linnean.gif"
+  
 
