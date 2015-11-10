@@ -1,0 +1,50 @@
+
+
+.pub-list {
+	padding-top:10px;
+	list-style-type:none;
+	margin-bottom: 30px;
+}
+.pub-list li {
+	clear:both;
+	margin-bottom: 10px;
+	overflow: auto;
+}
+.pub-list p {
+	margin-bottom: 3px; /* <p> element default margin is 0 0 10px 0 */
+}
+
+
+.pub-img {
+	float:left;
+	margin-right: 10px;
+	margin-bottom:10px;
+	border: 1px solid #fff;
+	padding: 2px;
+}
+.pub-img.hoverable:hover { border-color: #42aab2; }
+.pub-img img {
+	border: 1px solid #42aab2;
+	padding: 3px;
+	height:100px;
+	width: 77px; /* give img 8.5x11 dimensions */
+}
+
+.pub-title {
+	font-weight: bold;
+	font-size:120%;
+}
+.pub-title:after { content: "."; }
+
+.pub-sr { text-decoration: underline; }
+
+.pub-journal { font-style: italic; }
+
+.pub-pubinfo:after {content: "."; }
+
+.pub-year-header {
+	background:#ccc;
+	padding:2px 5px;
+}
+.pub-year:before { content: "("; }
+.pub-year:after { content: ")"; }
