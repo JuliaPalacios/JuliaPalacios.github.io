@@ -32,4 +32,19 @@
   link: "Leach-_et_al-2013-Biological_Journal_of_the_Linnean_Society.pdf"
   pic: "cover_Linnean.gif"
   
+- title: "Gaussian process-based Bayesian nonparametric inference of population trajectories from gene genealogies"
+  authors: "<ins>Palacios JA</ins>, Minin VN"
+  pubname: "Biometrics"
+  pubinfo: "69: 8 – 18. DOI: 10.1111/biom.12003"
+  year: "2013"
+  pic: "cover_biometrics.gif"
 
+
+- title: "Integrated nested Laplace approximation for Bayesian nonparametric phylodynamics"
+  authors: "<ins>Palacios JA</ins>, Minin VN"
+  pubname: "Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial Intelligence"
+  pubinfo: "69: 8 – 18. DOI: 10.1111/biom.12003"
+  year: "2012"
+  pic: "cover_uai.gif"
+
+ 
