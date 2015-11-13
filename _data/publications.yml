@@ -6,7 +6,6 @@
 # fields are: title, authors, pubname, pubinfo year, link, pic, and other
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
-# Use <ins> tag to surround SR name in order to underline it. 
 
 - title: "Bayesian nonparametric inference of population size changes from sequential genealogies"
   authors: "<ins> Palacios, JA</ins>, Wakeley, J, and Ramachandran, S"
