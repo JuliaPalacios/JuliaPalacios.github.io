@@ -32,7 +32,7 @@
 
 .pub-title {
 	font-weight: bold;
-	font-size:120%;
+	font-size:100%;
 }
 .pub-title:after { content: "."; }
 
