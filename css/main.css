@@ -16,6 +16,14 @@ a:visited { color: #9ebcda; } /* #205caa */
 .extra-sep { padding-top: 8px; }
 
 
+.panel-dark { border-color: #000; }
+.panel-dark>.panel-heading {
+  border-color: #000;
+  background-color: #1E4D51;
+  color: #ddd;
+}
+
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
