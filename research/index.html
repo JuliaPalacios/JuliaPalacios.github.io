@@ -10,7 +10,7 @@ title: publications
 		<!--	<p>This page is under construction. <a href="https://sites.google.com/site/juliaapalaciosroman/summary-3" target="_blank">See my old page</a></p> -->
 
     		</div><!-- /.blurb -->
-    		{% assign articles = site.data.publications | sort: 'year' %}
+    		{% assign articles = site.data.preprints | sort: 'year' %}
 {% for article in articles reversed %}
 
 {% if forloop.first == true %}
