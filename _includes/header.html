@@ -1,19 +1,5 @@
 <header>
 
-<!-- RAMACHANDRAN LAB LOGO -->
-<div class="container">
-  <div class="row">
-    <hr class="header-border" id="header-border-top">
-    <div class="col-lg-2 col-md-2 col-sm-2">
-      <div id="header-brown-logo"><a id="header-brown-logo" target="_blank" href="http://www.brown.edu/"><img class="img-responsive" src="{{ site.url }}/files/brownlogo-below.jpg"></a></div>
-    </div>
-    <div class="col-lg-7 col-md-8 col-sm-9">
-      <a id="logo" href="{{ site.baseurl }}/"><img class="img-responsive" src="{{ site.baseurl }}/files/logos/new-long.png"/></a>
-    </div>
-    <div class="col-lg-3 col-md-2 col-sm-1"></div>
-  </div>
-</div>
-
 
 <nav class="navbar navbar-default">
   <div class="container">
@@ -33,14 +19,8 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="sr-navbar">
           <ul class="nav navbar-nav navbar-left">
-            <li id="navbar-brown-logo"><a class="navbar-item" target="_blank" href="http://www.brown.edu/"><img src="{{ site.url }}/files/brownlogo.jpg"/></a></li>            
             <li><a class="navbar-item {% if page.url == '/' %} active{% endif %}"                           href="{{ site.baseurl }}/"><i class="fa fa-home"></i> Home</a></li>
-            <li><a class="navbar-item {% if page.url == '/news/' %} active{% endif %}"                 href="{{ site.baseurl }}/news/"><i class="fa fa-newspaper-o"></i> News</a></li>
-            <li><a class="navbar-item {% if page.url == '/people/' %} active{% endif %}"             href="{{ site.baseurl }}/people/"><i class="fa fa-users"></i> People</a></li>
-            <li><a class="navbar-item {% if page.url == '/projects/' %} active{% endif %}"         href="{{ site.baseurl }}/projects/"><i class="fa fa-code-fork"></i> Projects</span></a></li>
-            <li><a class="navbar-item {% if page.url == '/publications/' %} active{% endif %}" href="{{ site.baseurl }}/publications/"><i class="fa fa-file-text"></i> Publications</a></li>
-            <li><a class="navbar-item {% if page.url == '/datasets/' %} active{% endif %}"         href="{{ site.baseurl }}/datasets/"><i class="fa fa-database"></i> Software/Data</a></li>
-            <li><a class="navbar-item {% if page.url == '/blog/' %} active{% endif %}"                 href="{{ site.baseurl }}/blog/"><i class="fa fa-comments-o"></i> Blog</a></li>
+            <li><a class="navbar-item {% if page.url == '/publications/' %} active{% endif %}" href="{{ site.baseurl }}/research/"><i class="fa fa-file-text"></i> Publications</a></li>
           </ul>  
         </div><!-- /.navbar-collapse -->
       </div>
