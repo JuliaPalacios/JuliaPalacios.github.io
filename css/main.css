@@ -1,10 +1,19 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700); /* aaron added */
+@import url(http://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700); 
 
 
 body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   color: #333;
 }
+
+a         { color: #42aab2; text-decoration: none; } /* #2a7ae2 */
+a:hover   { color: #42aab2; text-decoration: underline; } /* #000 */
+a:visited { color: #42aab2; } /* #205caa */
+
+
+.section-header { border-bottom: 1px solid #e8e8e8; }
+.extra-sep { padding-top: 8px; }
+
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -16,13 +25,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
