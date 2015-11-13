@@ -7,9 +7,9 @@ body {
    font-family: "Lato", Helvetica, Arial, sans-serif;
 }
 
-a         { color: #42aab2; text-decoration: none; } /* #2a7ae2 */
-a:hover   { color: #42aab2; text-decoration: underline; } /* #000 */
-a:visited { color: #42aab2; } /* #205caa */
+a         { color: #9ebcda; text-decoration: none; } /* #2a7ae2 */
+a:hover   { color: #9ebcda; text-decoration: underline; } /* #000 */
+a:visited { color: #9ebcda; } /* #205caa */
 
 
 .section-header { border-bottom: 1px solid #e8e8e8; }
