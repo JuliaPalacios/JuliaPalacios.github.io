@@ -35,6 +35,10 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
+#header-container-bottom {
+  border-bottom: 2px solid #e8e8e8;
+}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
