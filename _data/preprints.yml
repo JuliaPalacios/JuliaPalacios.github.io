@@ -8,7 +8,7 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
 - title: "Quantifying and mitigating the effect of preferential sampling on phylodynamic inference"
-  authors: "Karcher, MD, Palacios JA, Bedford T, Suchard MA and Minin, VN"
+  authors: "Karcher, MD, <ins>Palacios JA</ins>, Bedford T, Suchard MA and Minin, VN"
   year: "2015"
   pubinfo: "arXiv:1510.00775 [stat.ME]"
   link: "Palacios et al. -2015 -Genetics.pdf"
