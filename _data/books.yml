@@ -8,9 +8,11 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
-- title: "Quantifying and mitigating the effect of preferential sampling on phylodynamic inference"
-  authors: "Karcher, MD, Palacios JA, Bedford T, Suchard MA and Minin, VN"
-  year: "2015"
-  pubinfo: "arXiv:1510.00775 [stat.ME]"
-  link: "Palacios et al. -2015 -Genetics.pdf"
+- title: "Bayesian nonparametric phylodynamics, in Bayesian Phylogenetics: Methods, Algorithms, and Applications"
+  authors: "<ins>Palacios JA</ins>, Gill MS, Suchard MA, and Minin VN"
+  year: "2014"
+  pubinfo: "edited by Chen MH, Kuo L, Lewis PO"
+  
+  
+  
   
