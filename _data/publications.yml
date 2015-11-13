@@ -13,7 +13,7 @@
   pubinfo: "Vol. 201:281-304"
   year: "2015"
   link: "Palacios et al. -2015 -Genetics.pdf"
-  pic: "1.cover_genetics.gif"
+  pic: "/publications/1.cover_genetics.gif"
 
 - title: "An efficient Bayesian inference framework for coalescent-based nonparametric phylodynamics"
   authors: "Lan S, <ins> Palacios JA</ins>, Karcher, M, Minin VN, Babak Shahbaba"
