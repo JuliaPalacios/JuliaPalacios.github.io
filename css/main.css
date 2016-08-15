@@ -7,9 +7,9 @@ body {
    font-family: "Lato", Helvetica, Arial, sans-serif;
 }
 
-a         { color: #2c7fb8; text-decoration: none; } /* #2a7ae2 #9ebcda e34a33 #2c7fb8 */
-a:hover   { color: #2c7fb8; text-decoration: underline; } /* #000 */
-a:visited { color: #2c7fb8; } /* #205caa */
+a         { color: #e34a33; text-decoration: none; } /* #2a7ae2 #9ebcda e34a33 #2c7fb8 */
+a:hover   { color: #e34a33; text-decoration: underline; } /* #000 */
+a:visited { color: #e34a33; } /* #205caa */
 
 
 .section-header { border-bottom: 1px solid #e8e8e8; }
@@ -19,7 +19,7 @@ a:visited { color: #2c7fb8; } /* #205caa */
 .panel-dark { border-color: #000; }
 .panel-dark>.panel-heading {
   border-color: #000;
-  background-color: #1E4D51;
+  background-color: #e34a33;
   color: #ddd;
 }
 
@@ -36,7 +36,7 @@ nav ul li, footer ul li {
 }
 
 #header-container-bottom {
-  border-bottom: 2px solid #e8e8e8;
+  border-bottom: 2px solid #e34a33;
 }
 
 h1 {
