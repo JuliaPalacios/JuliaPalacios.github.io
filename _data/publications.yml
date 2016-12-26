@@ -7,6 +7,14 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
+- title: "phylodyn: an R package for phylodynanic simulation and inference"
+  authors: "Karcher, MD, <ins>Palacios JA</ins>, Lan  S, and Minin, VN"
+  pubname: "Molecular Ecology Resources"
+  year: "2017"
+  link: "http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12630/epdf"
+  pubinfo: "in press"
+  pic: "cover_MER.PNG"
+  
 - title: "Quantifying and mitigating the effect of preferential sampling on phylodynamic inference"
   authors: "Karcher, MD, <ins>Palacios JA</ins>, Bedford T, Suchard MA and Minin, VN"
   pubname: "PLOS Computational Biology"
