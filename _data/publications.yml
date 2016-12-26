@@ -13,7 +13,7 @@
   year: "2017"
   link: "http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12630/epdf"
   pubinfo: "in press"
-  pic: "cover_MER.PNG"
+  pic: "cover_MER.png"
   
 - title: "Quantifying and mitigating the effect of preferential sampling on phylodynamic inference"
   authors: "Karcher, MD, <ins>Palacios JA</ins>, Bedford T, Suchard MA and Minin, VN"
