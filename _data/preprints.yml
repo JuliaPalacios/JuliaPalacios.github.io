@@ -7,6 +7,12 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
+- title: "Exact Limits of Inference in Coalescent Models"
+  authors: "Johndrow, J, <ins>Palacios JA</ins>"
+  year: "2018"
+  link: "https://arxiv.org/abs/1711.05724"
+  pubinfo: "arXiv:1711.05724v2 [stat.ME]"
+  
 - title: "Quantifying and mitigating the effect of preferential sampling on phylodynamic inference"
   authors: "Karcher, MD, <ins>Palacios JA</ins>, Bedford T, Suchard MA and Minin, VN"
   year: "2015"
