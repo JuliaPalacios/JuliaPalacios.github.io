@@ -12,7 +12,6 @@
   pubname: "Cell"
   year: "2018"
   pubinfo: "in press"
-  link: "https://authors.elsevier.com/a/1Xg-qL7PXUh~V"
   pic: "cover_Cell.gif"
   
   - title: "phylodyn: an R package for phylodynamic simulation and inference"
