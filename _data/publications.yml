@@ -7,11 +7,17 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
  
-
+- title: "Integrated nested Laplace approximation for Bayesian nonparametric phylodynamics"
+  authors: "<ins>Palacios JA</ins>, Minin VN"
+  pubname: "Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial Intelligence"
+  year: "2017"
+  link: "UAI_INLA.pdf"
+  pic: "cover_uai.jpg"
+  
   - title: "No Evidence for Recent Selection at FOXP2 among Diverse Human Populations"
   authors: "Atkinson EG, Audesse AJ,<ins>Palacios JA</ins>, Bobo  DM, Webb AE, Ramchandran S, and Henn BM"
   pubname: "Cell"
-  year: "2018"
+  year: "2017"
   link: "journal.pcbi.1004789.PDF"
   pubinfo: "in press"
   pic: "cover_Cell.gif"
