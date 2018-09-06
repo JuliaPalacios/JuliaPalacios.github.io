@@ -8,14 +8,14 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
  
 
-  
-- title: "No Evidence for Recent Selection at FOXP2 among Diverse Human Populations"
+  - title: "No Evidence for Recent Selection at FOXP2 among Diverse Human Populations"
   authors: "Atkinson EG, Audesse AJ,<ins>Palacios JA</ins>, Bobo  DM, Webb AE, Ramchandran S, and Henn BM"
   pubname: "Cell"
   year: "2018"
+  link: "journal.pcbi.1004789.PDF"
   pubinfo: "in press"
   pic: "cover_Cell.gif"
-  
+
   - title: "phylodyn: an R package for phylodynamic simulation and inference"
   authors: "Karcher, MD, <ins>Palacios JA</ins>, Lan  S, and Minin, VN"
   pubname: "Molecular Ecology Resources"
