@@ -6,7 +6,7 @@
 # fields are: title, authors, pubname, pubinfo year, link, pic, and other
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
- 
+
 - title: "Integrated nested Laplace approximation for Bayesian nonparametric phylodynamics"
   authors: "<ins>Palacios JA</ins>, Minin VN"
   pubname: "Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial Intelligence"
@@ -20,7 +20,7 @@
   year: "2017"
   link: "journal.pcbi.1004789.PDF"
   pubinfo: "in press"
-  pic: "cover_Cell.gif"
+  pic: "cover_Cell2.png"
 
   - title: "phylodyn: an R package for phylodynamic simulation and inference"
   authors: "Karcher, MD, <ins>Palacios JA</ins>, Lan  S, and Minin, VN"
