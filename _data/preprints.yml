@@ -7,7 +7,7 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
-- title: "Sequential Importance Sampling for Muli-Resolution Kingman-Tajima Coalescent Counting"
+- title: "Sequential Importance Sampling for Multi-Resolution Kingman-Tajima Coalescent Counting"
   authors: "Cappello L, <ins>Palacios JA</ins>"
   year: "2019"
   #pubname: "Theoretical Population Biology (to appear)"
