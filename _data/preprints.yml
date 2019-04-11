@@ -7,10 +7,17 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
+- title: "Bayesian Estimation of Population Size Changes by Sampling Tajima's Trees"
+  authors: "<ins>Palacios JA</ins>, Veber A, Cappello L, Wang Z, Wakeley J, Ramachandran S"
+  year: "2019"
+  #pubname: "Genetics (to appear)"
+  link: "arxivTajima.pdf"
+  pubinfo: "arXiv:10.1101/605352v1"
+  
 - title: "Sequential Importance Sampling for Multi-Resolution Kingman-Tajima Coalescent Counting"
   authors: "Cappello L, <ins>Palacios JA</ins>"
   year: "2019"
-  #pubname: "Theoretical Population Biology (to appear)"
+  #pubname: " Not known"
   link: "arxivCountingCoalescent.pdf"
   pubinfo: "arXiv:1902.05527"
  
