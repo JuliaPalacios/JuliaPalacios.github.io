@@ -8,6 +8,11 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
 
+ - title: "A Metric Space of Ranked Tree Shapes and Ranked Genealogies"
+  authors: "Kim J, Rosenberg NA, <ins>Palacios JA</ins>"
+  year: "2019"
+  pubname: "Preprint"
+  pubinfo: "https://doi.org/10.1101/2019.12.23.887125"
   
 - title: "Sequential Importance Sampling for Multi-Resolution Kingman-Tajima Coalescent Counting"
   authors: "Cappello L, <ins>Palacios JA</ins>"
