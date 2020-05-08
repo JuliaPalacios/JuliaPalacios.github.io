@@ -30,9 +30,7 @@ title: publications
   <a class="pub-img {% if article.link %}hoverable{% endif %}" {% if article.link %}href="{{ site.baseurl }}/research/publications/{{ article.link }}" target="_blank"{% endif %}>
     <img src="{% if article.pic %}{{ site.baseurl }}/research/publications/{{ article.pic }}{% else %}{{ site.baseurl }}/research/publications/placeholder.svg{% endif %}" alt="" />
   </a>
-  <a class="pub-img {% if article.link2 %}hoverable{% endif %}" {% if article.link2 %}href="{{ article.link }}" target="_blank"{% endif %}>
-    <img src="{% if article.pic %}{{ site.baseurl }}/research/publications/{{ article.pic }}{% else %}{{ site.baseurl }}/research/publications/placeholder.svg{% endif %}" alt="" />
-  </a>
+
 	
   <p><span class="pub-title">{{ article.title }}</span></p>
   <p><span class="pub-authors">{{ article.authors }}</span></p>
