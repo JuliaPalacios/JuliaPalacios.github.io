@@ -6,7 +6,7 @@
 # fields are: title, authors, pubname, pubinfo year, link, pic, and other
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
-- title: "Discussion on ``Horseshoe-based Bayesian nonparametricestimation of effective population size trajectories'' "
+- title: "Discussion on Horseshoe-based Bayesian nonparametricestimation of effective population size trajectories"
   authors: "Cappello, L, Ghosh, S, <ins>Palacios JA</ins>"
   year: "2020"
   pubname: "Biometrics"
