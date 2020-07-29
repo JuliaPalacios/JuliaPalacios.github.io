@@ -6,6 +6,16 @@
 # fields are: title, authors, pubname, pubinfo year, link, pic, and other
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
+
+- title: "Sequential Importance Sampling for Multi-Resolution Kingman-Tajima Coalescent Counting"
+  authors: "Cappello L, <ins>Palacios JA</ins>"
+  year: "2020"
+  pubname: "The Annals of Applied Statistics"
+  link: "https://projecteuclid.org/euclid.aoas/1593449323"
+  pubinfo: "in press"
+  pic:"anals.jpeg"
+  
+  
 - title: "Discussion on “Horseshoe‐based Bayesian nonparametric estimation of effective population size trajectories” by James R. Faulkner, Andrew F. Magee, Beth Shapiro, and Vladimir N. Minin"
   authors: "Cappello, L, Ghosh, S, <ins>Palacios JA</ins>"
   year: "2020"
