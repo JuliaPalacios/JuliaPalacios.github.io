@@ -8,13 +8,13 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
 - title: "Adaptive preferential sampling in phylodynamics"
-  authors: "Cappello L, Veber A, <ins>Palacios JA</ins>"
+  authors: "Cappello L, <ins>Palacios JA</ins>"
   year: "2020"
   link: "AdaPref.pdf"
   pubinfo: "arXiv:2009.02307"
 
 - title: "The Tajima heterochronous n-coalescent: inference from heterochronously sampled molecular data"
-  authors: "Cappello L, <ins>Palacios JA</ins>"
+  authors: "Cappello L, Veber A, <ins>Palacios JA</ins>"
   year: "2020"
   link: "HetTaj.pdf"
   pubinfo: "arXiv:2004.06826"
