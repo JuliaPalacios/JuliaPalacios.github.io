@@ -7,6 +7,13 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
+- title: "Distance metrics for ranked evolutionary trees"
+  authors: "Kim J, Rosenberg NA, <ins>Palacios JA</ins>"
+  year: "2020"
+  pubname: "PNAS"
+  link2: "https://www.pnas.org/content/pnas/early/2020/10/30/1922851117.full.pdf"
+  pubinfo: "in press"
+  
 - title: "Sequential Importance Sampling for Multi-Resolution Kingman-Tajima Coalescent Counting"
   authors: "Cappello L, <ins>Palacios JA</ins>"
   year: "2020"
