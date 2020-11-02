@@ -13,6 +13,7 @@
   pubname: "PNAS"
   link: "1922851117.full.pdf"
   pubinfo: "in press"
+  pic: "pnas_cover.jpg"
   
 - title: "Sequential Importance Sampling for Multi-Resolution Kingman-Tajima Coalescent Counting"
   authors: "Cappello L, <ins>Palacios JA</ins>"
