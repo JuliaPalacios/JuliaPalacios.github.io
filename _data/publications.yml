@@ -11,7 +11,7 @@
   authors: "Kim J, Rosenberg NA, <ins>Palacios JA</ins>"
   year: "2020"
   pubname: "PNAS"
-  link2: "https://www.pnas.org/content/pnas/early/2020/10/30/1922851117.full.pdf"
+  link: "1922851117.full.pdf"
   pubinfo: "in press"
   
 - title: "Sequential Importance Sampling for Multi-Resolution Kingman-Tajima Coalescent Counting"
