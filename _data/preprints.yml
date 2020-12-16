@@ -7,6 +7,13 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
+
+- title: "An adjacent-swap Markov chain on coalescent trees"
+  authors: "Simper M, <ins>Palacios JA</ins>"
+  year: "2020"
+  link: "2012.08030.pdf"
+  pubinfo: "arXiv:2012.08030"
+  
 - title: "Adaptive preferential sampling in phylodynamics"
   authors: "Cappello L, <ins>Palacios JA</ins>"
   year: "2020"
