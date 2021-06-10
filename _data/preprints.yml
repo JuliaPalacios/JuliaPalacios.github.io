@@ -8,7 +8,7 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
 
-- title: "Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees"
+  - title: "Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees"
   authors: "Samyak R, <ins>Palacios JA</ins>"
   year: "2021"
   link: "2106.02724.pdf"
