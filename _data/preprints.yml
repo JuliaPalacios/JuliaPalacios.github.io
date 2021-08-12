@@ -7,6 +7,14 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
+
+- title: "Enumeration of binary trees compatible with a perfect phylogeny"
+  authors: "<ins>Palacios JA</ins>, Bhaskar A, Disanto F, Rosenberg NA"
+  year: "2021"
+  link: "2108.04849.pdf"
+  pubinfo: "arXiv:2108.04849"
+
+
 - title: "Scalable Bayesian change point detection with spike and slab priors"
   authors: "Cappello L, Madrid-Padilla OH, <ins>Palacios JA</ins>"
   year: "2021"
