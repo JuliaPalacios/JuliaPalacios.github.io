@@ -40,11 +40,6 @@
   link: "2012.08030.pdf"
   pubinfo: "arXiv:2012.08030"
   
-- title: "Adaptive preferential sampling in phylodynamics"
-  authors: "Cappello L, <ins>Palacios JA</ins>"
-  year: "2020"
-  link: "adaPref.pdf"
-  pubinfo: "arXiv:2009.02307, to appear in JCGS"
 
 - title: "The Tajima heterochronous n-coalescent: inference from heterochronously sampled molecular data"
   authors: "Cappello L, Veber A, <ins>Palacios JA</ins>"
