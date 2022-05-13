@@ -27,7 +27,7 @@ title: publications
 
 <li>
 
-<a class="pub-img {% if article.link2 %}hoverable{% endif %}" {% if article.link2 $}href="{{article.link2}}" target="_blank"{% endif %}>
+<a class="pub-img {% if article.link2 %}hoverable{% endif %}" {% if article.link2 %}href="{{article.link2}}" target="_blank"{% endif %}>
     <img src="{% if article.pic %}{{ site.baseurl }}/research/publications/{{ article.pic }}{% else %}{{ site.baseurl }}/research/publications/placeholder.svg{% endif %}" alt="" />
   </a>
 	
