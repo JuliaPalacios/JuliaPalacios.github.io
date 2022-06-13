@@ -24,11 +24,18 @@
   pubinfo: "arXiv:2106.02724"
   
 
-# - title: "The Tajima heterochronous n-coalescent: inference from heterochronously sampled molecular data"
-#   authors: "Cappello L, Veber A, <ins>Palacios JA</ins>"
-#   year: "2020"
-#   link: "HetTaj.pdf"
-#   pubinfo: "arXiv:2004.06826"
+- title: "The Tajima heterochronous n-coalescent: inference from heterochronously sampled molecular data"
+  authors: "Cappello L, Veber A, <ins>Palacios JA</ins>"
+  year: "2022"
+  link: "HetTaj.pdf"
+  pubinfo: "arXiv:2004.06826"
+  
+- title: "Bayesian Inference of Dependent Population Dynamics in Coalescent Models"
+  authors: "Cappello L, Kim, J <ins>Palacios JA</ins>"
+  year: "2022"
+  link2: "https://www.biorxiv.org/content/10.1101/2022.05.22.492976v1"
+  pubinfo: "biorXiv:2022.05.22.492976v1"
+
 
 
  
