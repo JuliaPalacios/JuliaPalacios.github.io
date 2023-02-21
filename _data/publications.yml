@@ -7,6 +7,16 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
+
+- title: "Scalable Bayesian change point detection with spike and slab priors"
+  authors: "Cappello L, Madrid-Padilla OH, <ins>Palacios JA</ins>"
+  year: "2023"
+  link2: "https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2182312"
+  pubname: "Journal of Computational and Graphical Statistic"
+  pubinfo: "in press"
+  pic: "cover_JGCS.png"
+  
+  
 - title: "Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy"
   authors: "Victoria Parikh, Alexander Ioannidis, David Jimenez-Morales, John Gorzynski, Hannah De Jong, Xiran Liu, Jonasel Roque, Victoria Cepeda-Espinoza, Kazutoyo Osoegawa, Christopher Hughes, Shirley Sutton, Nathan Youlton, Ruchi Joshi, David Amar, Yosuke Tanigawa, D. Russo, J. Wong, Jessica Lauzon, J. Edelson, D. Montserrat, Y. Kwon, S. Rubinacci, Olivier Delaneau, L. Cappello, Jaehee Kim, M. Shoura, Archana Raja, Nathaniel Watson, Nathan Hammond, Elizabeth Spiteri, K. Mallempati, G. Montero-Martin, Jeffrey Christle, J. Kim, A. Kirillova, Kinya Seo, Yong Huang, Chunli Zhao, S. Moreno-Grau, S. Hershman, Karen Dalton, Jimmy Zhen, Jack Kamm, Karan Bhatt, Alina Isakova, M. Morri, Thanmayi Ranganath, Catherine Blish, Angela Rogers, Kari Nadeau, Samuel Yang, A. Blomkalns, Ruth O'Hara, Norma Neff, C. DeBoever, Sandor Szalma, Matthew
 Wheeler, Christopher Gates, K. Farh, Gary Schroth, Phillip Febbo, F. deSouza, Omar Cornejo, Marcelo Fernandez-Vina, Amy Kistler, <ins> J. Palacios</ins>, Benjamin Pinsky, Carlos Bustamante, Manuel Rivas, and Euan Ashley"
