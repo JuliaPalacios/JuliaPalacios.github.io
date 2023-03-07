@@ -8,7 +8,11 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
   
-  
+- title: "CRP-Tree: A phylogenetic association test for binary traits"
+  authors: "Zhang J, Preising GA, Schumer M, <ins>Palacios JA</ins>"
+  year: "2023"
+  link: "2302.09402.pdf"
+  pubinfo: "arXiv:2302.09402"
 
   
 - title: "Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees"
