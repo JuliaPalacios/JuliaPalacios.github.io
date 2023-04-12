@@ -14,7 +14,7 @@
   link2: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010897"
   pubname: "PLOS Computational Biology"
   pubinfo: "in press"
-  pic: "cover_plos2.png"
+  pic: "cover_plos2.PNG"
 
 - title: "Scalable Bayesian change point detection with spike and slab priors"
   authors: "Cappello L, Madrid-Padilla OH, <ins>Palacios JA</ins>"
