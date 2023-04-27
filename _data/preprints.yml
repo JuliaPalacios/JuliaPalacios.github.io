@@ -14,13 +14,7 @@
   link: "2302.09402.pdf"
   pubinfo: "arXiv:2302.09402"
 
-  
-- title: "Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees"
-  authors: "Samyak R, <ins>Palacios JA</ins>"
-  year: "2021"
-  link: "2106.02724.pdf"
-  pubinfo: "arXiv:2106.02724"
-  
+    
 
 - title: "The Tajima heterochronous n-coalescent: inference from heterochronously sampled molecular data"
   authors: "Cappello L, Veber A, <ins>Palacios JA</ins>"
