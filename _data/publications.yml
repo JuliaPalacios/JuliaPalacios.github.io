@@ -12,7 +12,7 @@
   year: "2023"
   link2: "https://doi.org/10.1093/biomet/asad025"
   pubname: "Biometrika"
-  pic: "biometrika.png"
+  pic: "biometrika.jpeg"
   pubinfo: "in press"
 
 - title: "adaPop: Bayesian inference of dependent population dynamics in coalescent models"
