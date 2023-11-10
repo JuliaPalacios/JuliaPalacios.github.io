@@ -66,3 +66,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.image-cropped {
+   object-fit: cover; /* This will crop the image to fit the specified height and width */
+   width: 200px; /* Set the width you desire */
+   height: 200px; /* Set the height you desire */
+}
+
