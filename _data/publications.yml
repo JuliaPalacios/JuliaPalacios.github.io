@@ -8,6 +8,13 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
 
+- title: "The Tajima heterochronous n-coalescent: inference from heterochronously sampled molecular data"
+  authors: "Cappello L, Veber A, <ins>Palacios JA</ins>"
+  year: "2024"
+  link: "HetTaj.pdf"
+  pubname: "Journal of the American Statistical Society"
+  pubinfo: "in press"
+  
 - title: "CRP-Tree: A phylogenetic association test for binary traits"
   authors: "Zhang J, Preising GA, Schumer M, <ins>Palacios JA</ins>"
   year: "2023"
