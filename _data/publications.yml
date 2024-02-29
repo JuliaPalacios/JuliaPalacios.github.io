@@ -13,6 +13,7 @@
   year: "2024"
   link: "HetTaj.pdf"
   pubname: "Journal of the American Statistical Society"
+  pic: "jasa.jpeg"
   pubinfo: "in press"
   
 - title: "CRP-Tree: A phylogenetic association test for binary traits"
