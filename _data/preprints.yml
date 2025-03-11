@@ -7,12 +7,7 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
- 
-- title: "Multiple merger coalescent inference of effective population size"
-  authors: "Zhang J, <ins>Palacios JA</ins>"
-  year: "2024"
-  link2: "https://arxiv.org/abs/2407.14976"
-  pubinfo: "arXiv:2407.14976"
+
 
 - title: "Exact Bayesian Gaussian Cox Processes Using Random Integral"
   authors: "Tang B, <ins>Palacios JA</ins>"
