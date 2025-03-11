@@ -8,8 +8,13 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
 
-https://royalsocietypublishing.org/doi/epdf/10.1098/rstb.2023.0306
 
+- title: "Multiple merger coalescent inference of effective population size"
+  authors: "Zhang J, <ins>Palacios JA</ins>"
+  year: "2025"
+  link2: "https://royalsocietypublishing.org/doi/epdf/10.1098/rstb.2023.0306"
+  pubname: "Phil. Trans. R. Soc. B"
+  pic: "arXiv:2407.14976"
 
 - title: "The Tajima heterochronous n-coalescent: inference from heterochronously sampled molecular data"
   authors: "Cappello L, Veber A, <ins>Palacios JA</ins>"
@@ -17,7 +22,7 @@ https://royalsocietypublishing.org/doi/epdf/10.1098/rstb.2023.0306
   link2: "https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2330732"
   pubname: "Journal of the American Statistical Society"
   pic: "jasa.jpeg"
-  pubinfo: "in press"
+  
 
   
 - title: "Statistical summaries of unlabelled evolutionary trees"
