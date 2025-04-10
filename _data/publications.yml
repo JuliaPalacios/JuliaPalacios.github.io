@@ -7,7 +7,12 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
-
+- title: "Curriculum Design in an Evolving Field: Perspectives on Biomedical Data Science from Stanford"
+  authors: "Yeh CY,  Wall DP, Matthys K, Sabatti C, and <ins>Palacios JA</ins>"
+  year: "2025"
+  link2: "https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-090624-022951"
+  pubname: "Annual Review of Biomedical Data Science"
+  pic: "biodatasci.png"
 
 - title: "Multiple merger coalescent inference of effective population size"
   authors: "Zhang J, <ins>Palacios JA</ins>"
