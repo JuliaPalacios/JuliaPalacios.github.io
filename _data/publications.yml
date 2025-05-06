@@ -11,8 +11,9 @@
   authors: "Medina CM, Palacios JA, Minin VM"
   year: "2025"
   pubname: "Plos Comp. Biology (to appear)"
-  link2: "https://arxiv.org/abs/2407.18432"
-  pubinfo: "arXiv:2407.18432"
+  link2: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012970"
+  pic: "logo-plos-full-color.svg"
+ 
 
 - title: "Curriculum Design in an Evolving Field: Perspectives on Biomedical Data Science from Stanford"
   authors: "Yeh CY,  Wall DP, Matthys K, Sabatti C, and <ins>Palacios JA</ins>"
