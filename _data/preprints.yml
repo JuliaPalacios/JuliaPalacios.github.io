@@ -8,7 +8,13 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
 
-- title: "Generalizing matrix representations to fully heterochronous ranked tree shapes"
+- title: "Coalescent Inference for Epidemics with Latent Periods"
+  authors: "Goldstein IH, <ins>Palacios JA</ins>"
+  year: "2025"
+  link2: "https://arxiv.org/abs/2511.09686"
+  pubinfo: "arXiv:2511.09686"
+  
+  - title: "Generalizing matrix representations to fully heterochronous ranked tree shapes"
   authors: "Jennings-Shaffer C, Chen C, <ins>Palacios JA</ins>, Matsen IV, FA"
   year: "2025"
   link2: "https://arxiv.org/abs/2510.27030"
