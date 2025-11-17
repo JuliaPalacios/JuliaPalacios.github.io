@@ -8,6 +8,12 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
 
+- title: "Efficient Bayesian Phylogenetics under the Infinite Sites Model"
+  authors: "Specht I, <ins>Palacios JA</ins>"
+  year: "2025"
+  link2: "https://www.biorxiv.org/content/10.1101/2025.11.14.688551v1.full.pdf"
+  pubinfo: "bioRxiv 2025.11.14.688551"
+
 - title: "Coalescent Inference for Epidemics with Latent Periods"
   authors: "Goldstein IH, <ins>Palacios JA</ins>"
   year: "2025"
