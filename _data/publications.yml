@@ -13,6 +13,20 @@
   pubname: "Genetics (to appear)"
   link2: "https://www.biorxiv.org/content/10.1101/2025.11.14.688551v1.full.pdf"
   pubinfo: "bioRxiv 2025.11.14.688551"
+
+- title: "Generalizing matrix representations to fully heterochronous ranked tree shapes"
+  authors: "Jennings-Shaffer C, Chen C, <ins>Palacios JA</ins>, Matsen IV, FA"
+  year: "2025"
+  pubname: "Bulletin of Mathematical Biology (to appear)"
+  link2: "https://arxiv.org/abs/2510.27030"
+  pubinfo: "arXiv:2510.27030"
+  
+- title: "Exact Bayesian Gaussian Cox Processes Using Random Integral"
+  authors: "Tang B, <ins>Palacios JA</ins>"
+  year: "2024"
+  pubname: "SIAM Journal on Mathematics of Data Science"
+  link2: "https://arxiv.org/abs/2406.19722"
+  pubinfo: "arXiv:2406.19722"
   
 - title: "Accounting for reporting delays in real-time phylodynamic analyses with preferential sampling"
   authors: "Medina CM, Palacios JA, Minin VM"
