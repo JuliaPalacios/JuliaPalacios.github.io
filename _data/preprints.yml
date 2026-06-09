@@ -8,6 +8,14 @@
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
 
+- title: "Matrix representations and distance metrics for unlabeled ranked
+phylogenetic networks"
+  authors: "Jiayang Wang, <ins>Palacios JA</ins> and  Claudia Solıs-Lemus"
+  year: "2026"
+  link2: "https://arxiv.org/pdf/2606.08409"
+  pubinfo: "arXiv:2606.08409"
+
+
 - title: "Coalescent Inference for Epidemics with Latent Periods"
   authors: "Goldstein IH, <ins>Palacios JA</ins>"
   year: "2025"
