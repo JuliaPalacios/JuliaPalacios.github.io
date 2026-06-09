@@ -10,9 +10,9 @@
 - title: "Efficient Bayesian Phylogenetics under the Infinite Sites Model"
   authors: "Specht I, <ins>Palacios JA</ins>"
   year: "2026"
-  pubname: "Genetics (to appear)"
-  link2: "https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyag103/8658503?redirectedFrom=fulltext"
-  pubinfo: "bioRxiv 2025.11.14.688551"
+  pubname: "Genetics"
+  link2: "https://academic.oup.com/genetics/article/233/2/iyag103/8658503"
+  pic: "m_genetics_233_2cover.jpeg"
 
 - title: "Generalizing matrix representations to fully heterochronous ranked tree shapes"
   authors: "Jennings-Shaffer C, Chen C, <ins>Palacios JA</ins>, Matsen IV, FA"
