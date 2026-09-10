@@ -7,6 +7,11 @@
 # other can contain other links/buttons whatever.
 # You can add "pubprefix" to do something like page numbers and/or "In:"
 
+- title: "Forecasting viral evolution from phylogenetic trees"
+  authors: "Ivan Specht, Soyoon Park, Seyone Chithrananda, Claudia L. Driscoll1, Garyk Brixi, <ins>Julia A. Palacios</ins>, and Brian L. Hie"
+  year: "2026"
+  link2: "https://www.biorxiv.org/content/10.64898/2026.08.27.741102v1.full.pdf"
+  pubinfo: "BiorXiv:2026.08.27.741102v1"
 
 - title: "Matrix representations and distance metrics for unlabeled ranked
 phylogenetic networks"
